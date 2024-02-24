@@ -32,6 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit-rajak&show_icons=true&locale=en&layout=compact" alt="subhajit-rajak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajit-rajak&show_icons=true&locale=en" alt="subhajit-rajak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit-rajak&" alt="subhajit-rajak" /></p>
-
