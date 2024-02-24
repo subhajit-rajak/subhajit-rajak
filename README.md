@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit-rajak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhajit-rajak" alt="subhajit-rajak" /></a> </p>
 
 - 🔭 I’m currently working on [Pretty Notes](https://github.com/subhajit-rajak/pretty-notes)
 
@@ -15,16 +14,16 @@
 
 - 📫 How to reach me **subhajitrajak@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15ZKjgX_ENMxOdIvxpHM8HKdFlGxSP1qO/view?usp=sharing](https://drive.google.com/file/d/15ZKjgX_ENMxOdIvxpHM8HKdFlGxSP1qO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15ZKjgX_ENMxOdIvxpHM8HKdFlGxSP1qO/view?usp=sharing)
 
 - ⚡ Fun fact **I love basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/subhajitrajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="subhajitrajak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subhajitrajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajitrajak" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/subhajitrajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhajitrajak" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/subhajitrajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhajitrajak" height="30" width="40" /></a>
+<a href="https://dev.to/subhajitrajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="subhajitrajak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
