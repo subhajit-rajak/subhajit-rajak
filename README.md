@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **subhajitrajak@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15ZKjgX_ENMxOdIvxpHM8HKdFlGxSP1qO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BHfNJn-2bQ_ObtvlIPmtMhl9KhmpWx6E/view?usp=sharing)
 
 - ⚡ Fun fact **I love basketball**
 
