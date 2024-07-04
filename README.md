@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit-rajak" /> </p>
 
 
-- 🔭 I’m currently working on [Ai Vision](https://github.com/subhajit-rajak/Ai-Vision)
+- 🔭 I’m currently working on an [Instagram Clone](https://github.com/subhajit-rajak/instagram-clone)
 
 - 🌱 I’m currently learning **Android with XML**
 
