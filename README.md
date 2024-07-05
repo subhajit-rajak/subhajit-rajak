@@ -31,7 +31,7 @@
 
 <h3 align="left">Leetcode Stats:</h3>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/subhajitrajak?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/subhajitrajak?ext=heatmap&theme=light)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit-rajak&show_icons=true&locale=en&layout=compact" alt="subhajit-rajak" /></p>
 
