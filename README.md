@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on an [Makaut Study Buddy](https://github.com/subhajit-rajak/makaut-study-buddy)
 
-- 🌱 I’m currently learning **Android with XML**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 💬 Ask me about **Android Development**
 
