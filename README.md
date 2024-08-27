@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android Development**
 
-- 📫 How to reach me **subhajitrajak@gmail.com**
+- 📫 How to reach me **subhajitrajak2001@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Onc9dqCDbRnfzEgQH2DCJLMuzE7plgwO/view?usp=drive_link)
 
