@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Android Development**
 
-- 📫 How to reach me **subhajitrajak2001@gmail.com**
+- 📫 How to reach me **subhajitrajak.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Onc9dqCDbRnfzEgQH2DCJLMuzE7plgwO/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1m1IDBzvroQ26Yx5yhpjLDe40q9qR8Akc/view?usp=sharing)
 
 - ⚡ Fun fact **I love basketball**
 
