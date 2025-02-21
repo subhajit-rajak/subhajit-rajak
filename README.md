@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhajit Rajak</h1>
 <h3 align="center">A passionate android developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://leetcard.jacoblin.cool/subhajitrajak?ext=heatmap&theme=dark">
+<img align="right" alt="Coding" width="400" src="https://leetcard.jacoblin.cool/subhajitrajak?theme=dark&font=Be%20Vietnam%20Pro&ext=heatmap">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit-rajak" /> </p>
 
