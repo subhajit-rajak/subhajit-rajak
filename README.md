@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit-rajak" /> </p>
 
 
-- 🔭 I’m currently working on an [Makaut Study Buddy](https://github.com/subhajit-rajak/makaut-study-buddy)
+- 🔭 I’m currently working on an [TravelWell - A Car Sickness Aid App](https://github.com/subhajit-rajak/travelwell)
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
