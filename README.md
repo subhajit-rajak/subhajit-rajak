@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Jetpack Compose**  
 - 💬 Ask me about **Android Development**  
 - 📫 How to reach me **subhajitrajak.dev@gmail.com**  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1m1IDBzvroQ26Yx5yhpjLDe40q9qR8Akc/view?usp=sharing)  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1D2niFa1y9zKclHixG_n_mwWrZbYxpfaA/view?usp=sharing)  
 - ⚡ Fun fact **I love basketball**  
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
