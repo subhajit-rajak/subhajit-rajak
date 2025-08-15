@@ -15,7 +15,7 @@
   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhajitrajak.dev@gmail.com) 
 </p>
 
-- 🔭 I’m currently working on an [TravelWell - A Car Sickness Aid App](https://github.com/subhajit-rajak/travelwell)  
+- 🔭 I’m currently working on an [Makaut Study Buddy - A guide for students](https://github.com/subhajit-rajak/makaut-study-buddy)  
 - 🌱 I’m currently learning **Jetpack Compose**  
 - 💬 Ask me about **Android Development**  
 - 📫 How to reach me **subhajitrajak.dev@gmail.com**  
