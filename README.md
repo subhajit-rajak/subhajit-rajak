@@ -3,6 +3,7 @@
 <td valign="top">
 
 <h1 align="left">Hi 👋, I'm Subhajit Rajak</h1>
+
 <h3 align="left">A passionate android developer from India</h3>
 
 <p align="left"> 
