@@ -9,7 +9,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=subhajit-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit-rajak" /> 
   
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhaoz) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ssubhajiit) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajit-rajak) 
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27191162) 
   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/subhajitrajak0) 
